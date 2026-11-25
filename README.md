@@ -1,5 +1,9 @@
 # The Excuse That Almost Works
 
+[![Make.fun](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![Rank](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/dwi085/makefun-excuse-almost-works-20261125/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/leaderboard)
+[![Reward](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/dwi085/makefun-excuse-almost-works-20261125/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+
 [![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/Node-22-green)](https://nodejs.org)
